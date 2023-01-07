@@ -1,0 +1,26 @@
+HTML: Description of the webpage. Basic building block of webpage.
+Markup → annotations/ tags
+Hyper text → one web page is linked to another page.
+
+Browser renders the HTML document.
+
+Tag: is something that tells the browser how to render different elements.
+
+HTML is case insensitive.
+
+HTML Text ELements: Block elements and inline elements.
+
+Block: h1 to h6, p
+Inline: em, strong
+
+Empty/ Self closing tag: br, input
+img can be both self closing and non self closing.
+
+3 types of list: ol, ul, description list.
+
+H1 tag to be used only once in a bag → good practice.
+
+!DocType HTML → line tells the browser that this is an html 5 document
+
+Pre tag → text written inside the pre tag will show up on screen as written in the html file.
+It solves the poet problem.
